@@ -11,3 +11,4 @@ The skills that I have learnt so far will be included. They are:
     2.  Paragraph elements
     3.  Hyperlink reference elements
     4.  Image elements
+    5.  The use of unordered and ordered lists
