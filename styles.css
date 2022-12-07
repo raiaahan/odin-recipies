@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(230, 174, 174);
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.image {  
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+ul,
+ol {
+    font-size: 20px;
+}
+
+.anchor {
+    text-align: center;
+    color: green;
+    background-color: rgb(194, 194, 194);
+}
+
+
